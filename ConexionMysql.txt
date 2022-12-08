@@ -1,0 +1,4 @@
+base de datos: restaurante
+nombre de usuario: egmybpi3jdxmh3kw9yi1
+anfitrión: us-east.connect.psdb.cloud
+contraseña: pscale_pw_RgN4Nme61HZJSZDSFlzGBANvrkdSlU1Yd52vPsmKSfL
