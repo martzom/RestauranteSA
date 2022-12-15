@@ -19,6 +19,10 @@ public class ServicioController {
 	
 	@GetMapping("/servicio")
 	public List<Servicio> listarTodosLosServicios(){
+		validarServicio();
 		return repositorio.findAll();
+	}
+
+	private void validarServicio() {
 	}
 }
